@@ -1,0 +1,18 @@
+body {
+    background: #202020;
+}
+
+canvas {
+    display: block;
+}
+
+
+#canvasBg {
+    background: #ffffff;
+}
+
+
+#overlapping canvas {
+    margin: -510px 0 0;
+    display: block;
+}
